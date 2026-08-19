@@ -1,39 +1,41 @@
 # 👋 Olá, eu sou o Bruno Lodi Mariano
 
-📊 **Estudante de Sistemas de Informação** | Em transição para **Análise de Dados e BI**  
-📍 Curitiba – PR
+📚 Estudante de **Sistemas de Informação** | <br>
+🖥️ Com experiência em **Web Design, Marketing Digital e Desenvolvimento Web**  
+📍 Curitiba – PR - Brasil
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante de **Sistemas de Informação** (1º período), com formação em **Produção Multimídia** e experiência em **web e marketing**. Estou direcionando minha carreira para a área de **Dados e Business Intelligence**, unindo minha bagagem prática em projetos digitais à base teórica que estou construindo em SQL, Python, Estatística e Cloud Computing.
+Sou estudante de **Sistemas de Informação** na **Universidade Positivo** (1º período), com formação em **Produção Multimídia** pela **Universidade OPET** e experiência nas áreas de **web e marketing**. 
 
-Busco minha **primeira oportunidade profissional** em dados, onde possa contribuir com dashboards, relatórios e análises preditivas que orientem decisões estratégicas.
+Estou em constante desenvolvimento, construindo uma base sólida em tecnologia e buscando uma **oportunidade profissional na área de tecnologia** para aplicar e expandir meus conhecimentos.
 
 ---
 
-## 🛠️ Hard Skills (em desenvolvimento)
+## 🛠️ Hard Skills
 
 | Área | Tecnologias / Conceitos | Nível |
 |:---|:---|:---|
-| **Banco de Dados** | SQL (consultas, modelagem, otimização) | Intermediário |
-| **Linguagens** | Python (Pandas, Matplotlib) | Básico/Intermediário |
-| **Cloud Computing** | AWS (S3, EC2) / Google Cloud Platform | Iniciante |
-| **BI e Visualização** | Power BI, Looker Studio, dashboards interativos | Em desenvolvimento |
+| **Linguagens de Programação** | Python, SQL, Linguagem C | Básico/Intermediário |
+| **Banco de Dados** | SQL (consultas, modelagem) | Intermediário |
+| **Cloud Computing** | Conceitos em AWS / Google Cloud Platform | Iniciante |
+| **BI e Visualização** | Power BI, Looker Studio | Em desenvolvimento |
 | **Versionamento** | Git, GitHub | Básico |
-| **Web (conhecimento de suporte)** | WordPress, HTML, CSS, SEO Técnico | Intermediário/Avançado |
+| **Desenvolvimento Web** | WordPress, HTML, CSS, SEO Técnico | Intermediário/Avançado |
+| **Design e Prototipagem** | Figma, Photoshop | Intermediário |
 
 ---
 
 ## 💡 Soft Skills
 
-- **Comunicação** – Capacidade de traduzir dados em narrativas claras para diferentes públicos
-- **Pensamento Analítico** – Foco em resolver problemas com base em evidências e métricas
-- **Trabalho em Equipe** – Experiência em projetos multidisciplinares (tecnologia, marketing, design)
-- **Organização e Gestão** – Gerenciamento de cronogramas e entregas simultâneas
-- **Aprendizado Contínuo** – Curiosidade para explorar novas ferramentas e metodologias
-- **Visão de Negócio** – Entendimento de métricas de conversão, funis de venda e jornada do usuário
+- **Comunicação** – Capacidade de transmitir ideias de forma clara para diferentes públicos
+- **Pensamento Analítico** – Foco em resolver problemas com base em evidências
+- **Trabalho em Equipe** – Experiência em projetos multidisciplinares
+- **Organização** – Gerenciamento de cronogramas e entregas
+- **Aprendizado Contínuo** – Curiosidade para explorar novas tecnologias
+- **Visão de Negócio** – Entendimento de métricas e estratégias organizacionais
 
 ---
 
@@ -41,17 +43,17 @@ Busco minha **primeira oportunidade profissional** em dados, onde possa contribu
 
 | Projeto | Descrição | Status |
 |:---|:---|:---|
-| **Em breve: Análise de Dados Públicos** | Análise exploratória com Python e SQL | 🚧 Em andamento |
-| **Em breve: Dashboard de Performance Web** | Dashboard no Power BI com métricas de sites | 🚧 Em andamento |
-| **[Seu projeto aqui]** | [Descrição] | 🚧 Em planejamento |
+| **Em breve: Projeto Acadêmico** | Desenvolvimento durante o curso de Sistemas de Informação | 🚧 Em andamento |
+| **Em breve: Análise de Dados** | Estudo com dados públicos | 🚧 Em planejamento |
+| **Em breve: Portfólio** | Repositório com projetos pessoais | 🚧 Em planejamento |
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- **Sistemas de Informação** – [Nome da Faculdade] (2026 – 2029) – Cursando
-- **MBA em Marketing** – UNIANDRADE (2020)
-- **Bacharelado em Produção Multimídia** – [Nome da Faculdade] ([Ano])
+- **Sistemas de Informação** – Universidade Positivo (2026 – 2029) – Cursando
+- **Bacharelado em Produção Multimídia** – Universidade OPET ([Ano de Conclusão]) – Concluído
+- **MBA em Marketing** – UNIANDRADE (2020) – Concluído
 
 ---
 
@@ -59,7 +61,7 @@ Busco minha **primeira oportunidade profissional** em dados, onde possa contribu
 
 - Especialização em Gestão e Desenvolvimento de Sites WordPress – [Instituição]
 - Google Adwords – Google
-- *Em andamento: Certificações em Dados e Cloud (AWS, Google Data Analytics, etc.)*
+- *Em andamento:* Certificações em Tecnologia e Cloud
 
 ---
 
@@ -78,4 +80,4 @@ Busco minha **primeira oportunidade profissional** em dados, onde possa contribu
 
 ---
 
-⭐ *"Dados são o novo petróleo — e estou aprendendo a refiná-los."*
+⭐ *"A tecnologia move o mundo — e estou me preparando para fazer parte disso."*
