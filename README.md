@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Bruno Lodi Mariano
 
-📚 Estudante de **Sistemas de Informação** | <br>
+📚 Estudante de **Sistemas de Informação**  <br>
 🖥️ Com experiência em **Web Design, Marketing Digital e Desenvolvimento Web**  
 📍 Curitiba – PR - Brasil
 
@@ -26,6 +26,22 @@ Estou em constante desenvolvimento, construindo uma base sólida em tecnologia e
 | **Desenvolvimento Web** | WordPress, HTML, CSS, SEO Técnico | Intermediário/Avançado |
 | **Design e Prototipagem** | Figma, Photoshop | Intermediário |
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="30"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="30"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" height="30"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop" height="30"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30"/>
+</p>
 ---
 
 ## 💡 Soft Skills
@@ -72,12 +88,29 @@ Estou em constante desenvolvimento, construindo uma base sólida em tecnologia e
 
 ---
 
+
 ## 📫 Vamos conectar?
 
-- 💼 [LinkedIn](https://linkedin.com/in/bruno-lodi)
-- 📧 blmariano@gmail.com
-- 🐙 [GitHub](https://github.com/bruno-lodi)
-
+<p align="left">
+  <a href="https://brunolodi.com" target="_blank">
+    <img src="https://img.shields.io/badge/Site-333?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site" height="30"/>
+  </a>
+  <a href="https://linkedin.com/in/bruno-lodi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://www.instagram.com/weblodi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30"/>
+  </a>
+  <a href="https://github.com/bruno-lodi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
+  </a>
+  <a href="mailto:contato@brunolodi.com">
+    <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" height="30"/>
+  </a>
+  <a href="https://www.youtube.com/@brunolodiweb" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-333?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="30"/>
+  </a>
+</p>
 ---
 
 ⭐ *"A tecnologia move o mundo — e estou me preparando para fazer parte disso."*
