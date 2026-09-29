@@ -59,9 +59,9 @@ Estou em constante desenvolvimento, construindo uma base sólida em tecnologia e
 
 | Projeto | Descrição | Status |
 |:---|:---|:---|
-| **Em breve: Projeto Acadêmico** | Desenvolvimento durante o curso de Sistemas de Informação | 🚧 Em andamento |
+| **[Perfex Hosting Manager](https://github.com/SEU-USUARIO/perfex-hosting-manager)** | Módulo para o Perfex CRM que controla domínios e contas de hospedagem por cliente, com alerta de vencimento e renovação rápida | ✅ Concluído |
+| **[Perfex WhatsApp Integration](https://github.com/SEU-USUARIO/perfex-whatsapp-integration)** | Módulo para o Perfex CRM que adiciona um ícone de WhatsApp no cadastro do cliente, abrindo conversa direto pelo número | ✅ Concluído |
 | **Em breve: Análise de Dados** | Estudo com dados públicos | 🚧 Em planejamento |
-| **Em breve: Portfólio** | Repositório com projetos pessoais | 🚧 Em planejamento |
 
 ---
 
